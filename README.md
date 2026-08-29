@@ -1,4 +1,4 @@
-<img src="<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/271a47d0-9ef4-4e33-a4cf-f00576be0867" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/271a47d0-9ef4-4e33-a4cf-f00576be0867" />
 
 
 ### 📊 Estatísticas do GitHub
